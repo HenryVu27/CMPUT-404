@@ -1,0 +1,15 @@
+Q1. https://github.com/HenryVu27
+
+Q2. 2.31.0
+
+Q3. 2.31.0
+
+Q4. No difference
+
+Q5. 301 Moved permanently, must use http://wwww.google.com to get 200 (request succeeded)
+
+Q6. curl -i http://google.com/teapot returns status code 301 Moved permanently while curl -iL http://www.google.com/teapot returns status code 418
+
+Q7. -X POST specifies a POST request when communicating with the HTTP server
+
+Q8. https://github.com/HenryVu27/CMPUT-404-lab1/blob/main/lab1/lab1.py
